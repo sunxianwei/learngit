@@ -2,3 +2,4 @@ created on master branch
 creating a new branch is quick and simple.
 
 band fast forward--master branch
+branch f
